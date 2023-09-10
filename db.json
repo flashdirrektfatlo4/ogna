@@ -1,0 +1,11 @@
+{
+    "SlotsSix": {
+        "code": "200",
+        "error": "false",
+        "Success": true,
+        "data": {
+            "isKai": true,
+            "version": "125"
+        }
+    }
+}
